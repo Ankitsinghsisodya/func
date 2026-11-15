@@ -1,6 +1,6 @@
 # Golang Function Developer's Guide
 
-When creating a Go (Golang) function using the `func` CLI, the project directory
+When creating a Go  function using the `func` CLI, the project directory
 looks like a typical Go project. Both HTTP and Event functions have the same
 template structure.
 
